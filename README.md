@@ -1,7 +1,7 @@
 # hello-world
 2025-01-21 //test repository
 
-# markup language
+# markudown language
 # title
 ## sub title
 ### 3rd title
